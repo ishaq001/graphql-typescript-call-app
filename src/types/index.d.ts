@@ -1,0 +1,7 @@
+declare module '@apollo/client'
+declare module 'apollo-link-context'
+declare module 'react-transtion-group'
+declare module 'jwt'
+declare module 'jwt-decode'
+declare module '@apollo/react-hooks'
+declare module 'react-paginate'
